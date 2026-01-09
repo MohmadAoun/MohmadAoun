@@ -7,13 +7,13 @@
 
 ## 💫 About Me
 
-[cite_start]I am a **Results-oriented Lead Developer** with a unique dual-background in **Science (Pharmacy) and Engineering**[cite: 176, 203]. [cite_start]I specialize in architecting high-scale mobile solutions, currently leading the mobile architecture for a national FinTech ecosystem serving **3 million+ users**[cite: 177].
+I am a **Results-oriented Lead Developer** with a unique dual-background in **Science (Pharmacy) and Engineering**.I specialize in architecting high-scale mobile solutions, currently leading the mobile architecture for a national FinTech ecosystem serving **3 million+ users**.
 
 * 🔭 **Currently working on:** An AI-based language learning app.
 * 🌱 **Currently learning:** Android OS Development & Deep Native Integration.
-* [cite_start]💼 **Core Expertise:** Flutter (Bloc/Clean Architecture), System Architecture, and DevOps (CI/CD)[cite: 154, 156, 162].
+* 💼 **Core Expertise:** Flutter (Bloc/Clean Architecture), System Architecture, and DevOps (CI/CD).
 * ⚡ **Fun fact:** The AI won't take your job.
-* [cite_start]🗣️ **Languages:** Arabic (Native), English, German[cite: 167, 169, 171].
+* 🗣️ **Languages:** Arabic (Native), English, German.
 
 ---
 
@@ -21,11 +21,11 @@
 
 Here is a snapshot of the engineering challenges I have solved:
 
-* [cite_start]**High-Scale Architecture:** Architected the "ShamCash" government payment platform, handling complex transactions for **3M+ users** with **99.9% crash-free sessions**[cite: 186, 187, 188].
-* [cite_start]**Performance Optimization:** Engineered a Windows desktop tool for bulk transfers, optimizing parsing algorithms to reduce data processing time by **85% (from ~8 mins to <1 min)** for 20k records[cite: 189].
-* [cite_start]**DevOps Automation:** Built automated CI/CD pipelines using **Codemagic**, **Fastlane**, and **Gitea Actions**, enabling daily rolling updates[cite: 162, 190].
-* [cite_start]**Security:** Implemented military-grade encryption using **PointyCastle** and secure storage for sensitive financial data[cite: 191].
-* [cite_start]**Library Development:** Led the creation of a custom HTML/JS web component library based on **Material Design 3**[cite: 192].
+* **High-Scale Architecture:** Architected the "ShamCash" government payment platform, handling complex transactions for **3M+ users** with **99.9% crash-free sessions**.
+* **Performance Optimization:** Engineered a Windows desktop tool for bulk transfers, optimizing parsing algorithms to reduce data processing time by **85% (from ~8 mins to <1 min)** for 20k records.
+* **DevOps Automation:** Built automated CI/CD pipelines using **Codemagic**, **Fastlane**, and **Gitea Actions**, enabling daily rolling updates.
+* **Security:** Implemented military-grade encryption using **PointyCastle** and secure storage for sensitive financial data.
+* **Library Development:** Led the creation of a custom HTML/JS web component library based on **Material Design 3**.
 
 ---
 
